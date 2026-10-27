@@ -1,0 +1,21 @@
+# Entornos
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos generados (solo datos tabulares)
+frecuencias_palabras_lemas.csv
+tfidf_por_seccion_detalle.csv
+
+# OS
+.DS_Store
+Thumbs.db
